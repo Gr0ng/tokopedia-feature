@@ -12,3 +12,7 @@ https://www.ekasyahwan.com/2019/01/perburuan-bug-bounty-ku-di-tokopedia-3.html
 
 # Peringatan
 RISIKO DITANGGUNG SENDIRI, PENYALAHGUNAAN KODE DI ATAS DI LUAR TANGGUNG JAWAB KITA dan Siapa pun yang dirugikan oleh sumber terbuka ini, kami tidak bertanggung jawab atas penyalahgunaan sumber terbuka ini.
+
+
+# Update #
+- Fitur ini telah di patch oleh pihak tokopedia. lucu sekali,
